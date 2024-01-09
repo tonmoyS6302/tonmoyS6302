@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a passionate front-end web developer currently
 - 💻 Skilled in HTML, CSS, JavaScript, and frameworks like Vue.js.
 - 🌐 Love building web applications that make a positive impact.
 - 📫 How to reach me: tsarker@cisscom.com
-- 😄 Pronouns: He/His
+- 😄 Pronouns: He/Him
 
 <!---
 tonmoyS6302/tonmoyS6302 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
